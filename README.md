@@ -1,5 +1,6 @@
 **Energy Community Simulator developed for the European Researchers' Night 2025**
 
-Check install.txt
+How to Install:
+See install.txt
 
 ![Screenshot](./screenshot.png "Screenshot")
