@@ -1,4 +1,4 @@
-Energy Community Simulator developed for the European Researchers' Night 2025
+**Energy Community Simulator developed for the European Researchers' Night 2025**
 
 Check install.txt
 
