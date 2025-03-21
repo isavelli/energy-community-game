@@ -1,9 +1,10 @@
+To create the folder and handle the dependencies:
 npx create-react-app energy-community-game
 cd energy-community-game
 npm install lucide-react recharts
 
 ---
-If different, replace App.js with:
+If different, replace src/App.js with:
 
 import EnergyGame from './EnergyGame';
 
@@ -19,4 +20,5 @@ export default App;
 
 ---
 
+Finally:
 npm start
