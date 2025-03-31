@@ -1,6 +1,7 @@
 NOTE: It requires Node.js (https://nodejs.org)
 
-To create the folder and handle the dependencies, run the following commands:
+To create the folder and handle all dependencies, run the following commands in the Windows shell (Start -> Command Prompt (or Prompt dei comandi):
+
 npx create-react-app energy-community-game
 cd energy-community-game
 npm install lucide-react recharts
@@ -22,5 +23,4 @@ export default App;
 
 ---
 
-Finally, run the following command to start the game:
-npm start
+Finally, just double-click on the "start.bat" file to run the game.
